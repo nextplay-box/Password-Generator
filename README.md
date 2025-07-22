@@ -19,7 +19,7 @@ A simple Python tool that generates strong, random passwords of any length using
 Password-Generator/
 ├── generate_password.py   # Main script
 ├── README.md              # Documentation
-└── screenshot/
+└── screenshots/
     └── p-g.png            # Screenshot image
 
 📸 Screenshot
