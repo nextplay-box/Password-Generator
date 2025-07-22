@@ -25,7 +25,7 @@ Password-Generator/
 
 📸 Screenshot
 
-![Password Generator Screenshot](screenshots/p-g.png)
+![Password Generator Screenshot](p-g.png)
 
 ```text
 
