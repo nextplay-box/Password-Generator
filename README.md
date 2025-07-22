@@ -20,14 +20,23 @@ This tool only uses built-in Python libraries: `random` and `string`.
 
 ## Project Structure
 
-- `generate_password.py` – main script  
-- `README.md` – documentation
+Password-Generator/
+│
+├── generate_password.py     # Main script
+├── README.md                # Documentation
+└── screenshot/
+    └── p-g.png              # Screenshot image
+
 
 ## Screenshot
 
-![Password Generator Screenshot](screenshots/p-g.png)
+![Password Generator Screenshot](screenshot/p-g.png)
 
 ---
+
+🤝 License
+
+Made by nextplay-box
 
 Feel free to use, modify, or share.  
 Made by [nextplay-box](https://github.com/nextplay-box)
