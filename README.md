@@ -28,12 +28,12 @@ Password-Generator/
     └── p-g.png            # Screenshot image
 
 
+---
+
 ## Screenshot
 
 ![Password Generator Screenshot](screenshot/p-g.png)
 
-
----
 
 🤝 License
 
