@@ -1,24 +1,19 @@
 # 🔐 Password Generator
 
-A simple Python tool that generates strong, random passwords of any length using letters, digits, and special characters.
+A simple Python tool that generates strong, random passwords of any length using letters, numbers, and symbols. Useful for creating secure credentials quickly.
 
-## 💻 How to Use
+---
 
-1. Run the script:
-   ```bash
-   python3 generate_password.py
-2.Enter your desired password length (e.g., 12 or 16).
+## 🚀 Features
 
-3.It returns a strong password like:
+- Generate strong passwords
+- Mix of uppercase, lowercase, digits, and symbols
+- Simple and fast to use
+- Fully open-source
 
-Generated password: @9vLm#2$FiT7x&Q*
+---
 
-
-## Requirements
-
-This tool only uses built-in Python libraries: `random` and `string`.
-
-## Project Structure
+## 🛠️ Project Structure
 
 ```text
 Password-Generator/
@@ -27,22 +22,31 @@ Password-Generator/
 └── screenshot/
     └── p-g.png            # Screenshot image
 
+📸 Screenshot
 
----
+![Password Generator Screenshot](screenshots/p-g.png)
 
-## Screenshot
 
-![Password Generator Screenshot](screenshot/p-g.png)
+🧪 How to Run
+
+1. Clone this repo:
+
+git clone https://github.com/nextplay-box/Password-Generator.git
+cd Password-Generator
+
+2. (Optional) Create and activate a virtual environment:
+
+python3 -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+3. Run the script:
+
+python generate_password.py
 
 
 🤝 License
-
+Feel free to use, modify, and share this project.
 Made by nextplay-box
 
-Feel free to use, modify, or share.  
-Made by [nextplay-box](https://github.com/nextplay-box)
-
-## Author
-
-Created by [Augustine Anapuwa Oputa](https://github.com/nextplay-box)
-
+👨‍💻 Author
+Created with 💡 by Augustine Anapuwa Oputa
