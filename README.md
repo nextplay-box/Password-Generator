@@ -19,7 +19,7 @@ Generated password: @9vLm#2$FiT7x&Q*
 This tool only uses built-in Python libraries: `random` and `string`.
 
 ## Project Structure
-              
+
 Password-Generator/
 ├── generate_password.py # Main script
 ├── README.md # Documentation
