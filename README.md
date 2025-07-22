@@ -20,9 +20,6 @@ This tool only uses built-in Python libraries: `random` and `string`.
 
 ## Project Structure
 
-![Password Generator Screenshot](screenshots/p-g.png)
-
-
 - `generate_password.py` – main script  
 - `README.md` – documentation
 
