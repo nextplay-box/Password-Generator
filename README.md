@@ -27,6 +27,7 @@ Password-Generator/
 
 ![Password Generator Screenshot](screenshots/p-g.png)
 
+```text
 
 🧪 How to Run
 
@@ -44,10 +45,15 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 python generate_password.py
 
+```
+
+```text
 
 🤝 License
 Feel free to use, modify, and share this project.
 Made by nextplay-box
+
+```
 
 👨‍💻 Author
 Created with 💡 by Augustine Anapuwa Oputa
