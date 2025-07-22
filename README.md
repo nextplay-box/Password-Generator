@@ -20,11 +20,7 @@ This tool only uses built-in Python libraries: `random` and `string`.
 
 ## Project Structure
 
-Password-Generator/
-├── generate_password.py # Main script
-├── README.md # Documentation
-└── screenshot/
-└── p-g.png # Screenshot image
+<pre> ## Project Structure ``` Password-Generator/ ├── generate_password.py # Main script ├── README.md # Documentation └── screenshot/ └── p-g.png # Screenshot image ``` </pre>
 
 ## Screenshot
 
