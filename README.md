@@ -21,6 +21,7 @@ Password-Generator/
 ├── README.md              # Documentation
 └── screenshots/
     └── p-g.png            # Screenshot image
+```    
 
 📸 Screenshot
 
